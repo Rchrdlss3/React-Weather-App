@@ -11,6 +11,26 @@ Created with React JS and the OpenWeatherMap API.
 https://reactjs.org/
 https://openweathermap.org/api
 ```
+```
+Search for any place and receieve data
+```
+https://user-images.githubusercontent.com/35810850/175282781-37ff084b-d49d-4c50-b19d-fdfdd9f82704.mov
+
+```
+With LimosysLLC servicing the tri-state, some major states such as New York, Philadelphia, Connecticut, and New Jersey are easy to access with a click of a button
+```
+
+https://user-images.githubusercontent.com/35810850/175283029-abbd82bc-b285-464f-8c73-2c41c5cc942a.mov
+
+```
+Enjoyable and interactive user interface also created
+```
+
+
+https://user-images.githubusercontent.com/35810850/175283090-920bf478-2a08-43bc-90fd-63a39b410a87.mov
+
+
+
 ![04](https://user-images.githubusercontent.com/35810850/175249915-8cb52ba4-9629-46ff-b853-fe01cf354797.png)
 ![03](https://user-images.githubusercontent.com/35810850/175249996-cb6b2361-b109-40d0-a4bc-1378245daf15.png)
 ![05](https://user-images.githubusercontent.com/35810850/175250027-425e14c6-34f1-46a3-bb84-d7f197fd3bd9.png)
