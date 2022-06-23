@@ -1,6 +1,7 @@
 # React-Weather-App
 Weather Application that displays current weather a long with a 5 day forecast created with React
-!🌤[React Weather App]![01](https://user-images.githubusercontent.com/35810850/175248816-9f7464f3-5d78-468d-af91-fd5be67d0198.png)
+!🌤[React Weather App]
+![01](https://user-images.githubusercontent.com/35810850/175248816-9f7464f3-5d78-468d-af91-fd5be67d0198.png)
 ```
 Weather Application that allows end user to search any place in the world and obtain their current weather, along with a 5 day forecast.
 Application also displays information such as the sun rise, sun set of said location, humidity, clouds, displays multiple maps and many more.
